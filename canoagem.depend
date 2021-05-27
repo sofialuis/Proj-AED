@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1622137817 source:c:\users\sofia\documents\faculdade\aed\canoagem\equipa.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"equipa.h"
+
+1622155407 source:c:\users\sofia\documents\faculdade\aed\canoagem\atleta.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"tempo.h"
+	"iterador.h"
+	"dicionario.h"
+	"participacao.h"
+	"atleta.h"
+
+1622149356 c:\users\sofia\documents\faculdade\aed\canoagem\atleta.h
+
+1622156802 source:c:\users\sofia\documents\faculdade\aed\canoagem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tempo.h"
+	"quicksort.h"
+	"iterador.h"
+	"participacao.h"
+	"prova.h"
+	"atleta.h"
+	"equipa.h"
+	"gestorTempos.h"
+
+1622137838 c:\users\sofia\documents\faculdade\aed\canoagem\equipa.h
+
+1622149322 c:\users\sofia\documents\faculdade\aed\canoagem\gestortempos.h
+
+1622155551 source:c:\users\sofia\documents\faculdade\aed\canoagem\gestortempos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"tempo.h"
+	"iterador.h"
+	"dicOrdenado.h"
+	"dicionario.h"
+	"participacao.h"
+	"atleta.h"
+	"equipa.h"
+	"prova.h"
+	"gestorTempos.h"
+
+1621529936 source:c:\users\sofia\documents\faculdade\aed\canoagem\evento.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"prova.h"
+	"evento.h"
+
+1622136009 source:c:\users\sofia\documents\faculdade\aed\canoagem\prova.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"prova.h"
+
+1622048231 c:\users\sofia\documents\faculdade\aed\canoagem\prova.h
+
+1621529891 c:\users\sofia\documents\faculdade\aed\canoagem\evento.h
+
+1621898075 source:c:\users\sofia\documents\faculdade\aed\canoagem\nosimples.c
+	<stdlib.h>
+	"noSimples.h"
+
+1621898046 c:\users\sofia\documents\faculdade\aed\canoagem\nosimples.h
+
+1621786521 source:c:\users\sofia\documents\faculdade\aed\canoagem\iteravector.c
+	<stdlib.h>
+	"iterador.h"
+
+1621786518 c:\users\sofia\documents\faculdade\aed\canoagem\iterador.h
+
+1621898146 source:c:\users\sofia\documents\faculdade\aed\canoagem\sequencialista.c
+	<stdlib.h>
+	"iterador.h"
+	"sequencia.h"
+	"noSimples.h"
+
+1621898013 c:\users\sofia\documents\faculdade\aed\canoagem\sequencia.h
+
+1621813573 source:c:\users\sofia\documents\faculdade\aed\canoagem\chaves.c
+	<string.h>
+	"chaves.h"
+
+1621813463 c:\users\sofia\documents\faculdade\aed\canoagem\chaves.h
+
+1621816763 source:c:\users\sofia\documents\faculdade\aed\canoagem\dicvector.c
+	<stdlib.h>
+	"iterador.h"
+	"dicionario.h"
+	"chaves.h"
+	"tuplo.h"
+
+1621813428 c:\users\sofia\documents\faculdade\aed\canoagem\dicionario.h
+
+1621813652 c:\users\sofia\documents\faculdade\aed\canoagem\tuplo.h
+
+1621813655 source:c:\users\sofia\documents\faculdade\aed\canoagem\tuplo.c
+	<stdlib.h>
+	<string.h>
+	"tuplo.h"
+
+1621894322 source:c:\users\sofia\documents\faculdade\aed\canoagem\nosimpes.c
+	<stdlib.h>
+	"noSimples.h"
+
+1621893602 source:c:\users\sofia\documents\faculdade\aed\canoagem\seqvector.c
+	<stdlib.h>
+	"iterador.h"
+	"sequencia.h"
+
+1622154965 source:c:\users\sofia\documents\faculdade\aed\canoagem\participacao.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"tempo.h"
+	"iterador.h"
+	"sequencia.h"
+	"participacao.h"
+
+1622155284 c:\users\sofia\documents\faculdade\aed\canoagem\participacao.h
+
+1622154628 source:c:\users\sofia\documents\faculdade\aed\canoagem\tempo.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"tempo.h"
+
+1622154649 c:\users\sofia\documents\faculdade\aed\canoagem\tempo.h
+
+1622128242 source:c:\users\sofia\documents\faculdade\aed\canoagem\dicordvec.c
+	<stdlib.h>
+	"iterador.h"
+	"dicOrdenado.h"
+	"chaves.h"
+	"tuplo.h"
+
+1622128090 c:\users\sofia\documents\faculdade\aed\canoagem\dicordenado.h
+
+1622152983 source:c:\users\sofia\documents\faculdade\aed\canoagem\quicksort.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1622149942 c:\users\sofia\documents\faculdade\aed\canoagem\quicksort.h
+

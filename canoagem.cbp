@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="canoagem" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/canoagem" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/canoagem" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="atleta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="atleta.h" />
+		<Unit filename="chaves.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chaves.h" />
+		<Unit filename="dicOrdVec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dicOrdenado.h" />
+		<Unit filename="dicVector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dicionario.h" />
+		<Unit filename="equipa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="equipa.h" />
+		<Unit filename="gestorTempos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestorTempos.h" />
+		<Unit filename="iteraVector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="iterador.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="noSimples.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="noSimples.h" />
+		<Unit filename="participacao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="participacao.h" />
+		<Unit filename="prova.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prova.h" />
+		<Unit filename="quicksort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quicksort.h" />
+		<Unit filename="sequencia.h" />
+		<Unit filename="sequenciaLista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tempo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tempo.h" />
+		<Unit filename="tuplo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tuplo.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
